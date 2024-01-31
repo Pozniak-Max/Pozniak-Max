@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">• I’m always learning and staying updated . 🚀<br><br>• I aim to be at the forefront of web development trends. 🌐<br><br>• Drive growth and help businesses succeed.</p>
+<h3 align="left">• I’m always learning and staying updated . 🚀<br><br>• I aim to be at the forefront of web development trends. 🌐<br><br>• Drive growth and help businesses succeed. 📈</h3>
 
 ###
 
