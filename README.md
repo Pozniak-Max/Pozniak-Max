@@ -37,15 +37,15 @@
 
 ###
 
-<h4 align="left">Expert in Data Structures and Algorithms</h4>
+<h3 align="left">- Expert in Data Structures and Algorithms</h3>
 
 ###
 
-<h4 align="left">Skilled in React & TS, scalable web application development.</h4>
+<h3 align="left">- Skilled in React & TS, scalable web application development.</h3>
 
 ###
 
-<h4 align="left">Proficient with Next.js, Node.js, Tailwind & MongoDB</h4>
+<h3 align="left">- Proficient with Next.js, Node.js, Tailwind & MongoDB</h3>
 
 ###
 
